@@ -9,11 +9,15 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.0",
-    "vue-router": "^4.0.0"
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
   },
   "devDependencies": {
-    "vite": "^2.0.0"
+    "vite": "^5.2.0",
+    "@vitejs/plugin-vue": "^5.0.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   },
   "keywords": [
     "booking",
